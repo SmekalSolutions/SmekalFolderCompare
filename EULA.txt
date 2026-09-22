@@ -1,0 +1,154 @@
+SMEKAL SOLUTIONS
+FREE SOFTWARE END USER LICENSE AGREEMENT (EULA)
+
+Version 1.0
+Effective Date: 22 September 2026
+
+IMPORTANT: PLEASE READ THIS AGREEMENT BEFORE INSTALLING OR USING THE SOFTWARE.
+
+This End User License Agreement ("Agreement") is between you ("User" or "you") and Smekal Solutions ("Smekal", "we", "us", or "our") concerning your use of the applicable Smekal Solutions software application ("Software").
+
+1. FREE LICENSE GRANT
+
+Smekal Solutions grants you a free, non-exclusive, non-transferable, limited right to install and use the Software for personal, educational, research, evaluation, internal business, and commercial purposes, subject to this Agreement.
+
+No software license fee, subscription fee, trial fee, activation fee, or registration fee is required for normal use of the Software.
+
+2. COMMERCIAL AND BUSINESS USE
+
+The Software may be used by individuals, businesses, enterprises, IT service providers, consulting companies, system integrators, managed service providers, outsourcing companies, and other organizations for their own legitimate business purposes.
+
+The fact that the Software is free does not transfer ownership of the Software to the User.
+
+3. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+The Software, including its executable files, user interface, documentation, designs, trademarks, logos, and related materials, is owned by or licensed to Smekal Solutions and is protected by applicable intellectual property and copyright laws.
+
+All rights not expressly granted under this Agreement are reserved by Smekal Solutions.
+
+This Agreement does not transfer ownership of the Software or its underlying intellectual property to the User.
+
+4. SOURCE CODE
+
+The source code of the Software is proprietary and is not included with the Software distribution unless Smekal Solutions expressly states otherwise in writing.
+
+No right is granted to access, obtain, reproduce, modify, adapt, create derivative works from, or redistribute the source code.
+
+Nothing in this Agreement requires Smekal Solutions to provide source code, build scripts, development files, or other internal materials.
+
+5. INSTALLATION AND USE
+
+You may install and use the Software on computers that you own, operate, or are authorized to use.
+
+The Software may be used on multiple authorized computers without a per-computer software license fee, subject to the terms of this Agreement.
+
+6. RESTRICTIONS
+
+Unless expressly permitted by applicable law or by Smekal Solutions in writing, you may not:
+
+a. sell, rent, lease, sublicense, or transfer the Software as a standalone product;
+b. redistribute modified or repackaged versions of the Software as your own software product;
+c. remove or alter copyright, trademark, attribution, or legal notices;
+d. claim ownership of the Software or represent that you are the original developer;
+e. use the Smekal Solutions name, trademarks, logos, or branding in a manner that implies endorsement or official partnership without permission;
+f. reverse engineer, decompile, disassemble, or attempt to derive source code from the Software, except to the extent such restriction is prohibited by applicable law;
+g. use the Software to create a substantially similar competing product based primarily on the Software's proprietary implementation.
+
+Nothing in this section is intended to restrict rights that cannot lawfully be restricted under applicable law.
+
+7. REDISTRIBUTION
+
+The Software may be downloaded from official Smekal Solutions distribution channels.
+
+You may share a link to the official Smekal Solutions website or official GitHub release for the Software.
+
+You may not create a separate commercial distribution package that presents the Software as your own product or removes Smekal Solutions' ownership and legal notices.
+
+8. UPDATES AND FUTURE VERSIONS
+
+Smekal Solutions may release updates, upgrades, bug fixes, security fixes, or new versions of the Software.
+
+Smekal Solutions is not obligated to provide updates or to maintain any particular feature or version indefinitely.
+
+9. THIRD-PARTY SOFTWARE
+
+The Software may contain or use third-party software components, libraries, frameworks, runtimes, or services.
+
+Such components may be subject to separate licenses and terms. Where applicable, third-party notices and license information are provided with the Software or in the official distribution repository.
+
+The terms of applicable third-party licenses remain applicable to those components.
+
+10. PROFESSIONAL SERVICES
+
+The Software is provided free of charge.
+
+11. USER CONTENT AND DATA
+
+The Software does not, by this Agreement alone, grant Smekal Solutions ownership of files, documents, application packages, configurations, or other content created or processed by the User.
+
+You are responsible for ensuring that your use of the Software and the content you process with it complies with applicable laws, regulations, licenses, and third-party rights.
+
+12. PRIVACY
+
+Any personal information voluntarily provided to Smekal Solutions, such as when requesting support or professional services, will be handled in accordance with the applicable Smekal Solutions Privacy Policy.
+
+Third-party services used with the Software may have their own privacy policies and terms.
+
+13. WARRANTY DISCLAIMER
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY.
+
+SMEKAL SOLUTIONS DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, SECURE, OR SUITABLE FOR EVERY PARTICULAR PURPOSE.
+
+14. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, SMEKAL SOLUTIONS SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS, REVENUE, BUSINESS, OR BUSINESS OPPORTUNITY ARISING FROM OR RELATED TO THE USE OF THE SOFTWARE.
+
+BECAUSE THE SOFTWARE IS PROVIDED FREE OF CHARGE, TO THE MAXIMUM EXTENT PERMITTED BY LAW, SMEKAL SOLUTIONS' AGGREGATE LIABILITY ARISING FROM OR RELATING TO THE SOFTWARE SHALL NOT EXCEED INR 10,000.
+
+Nothing in this Agreement excludes or limits liability that cannot legally be excluded or limited.
+
+15. TERMINATION
+
+This Agreement is effective until terminated.
+
+Your rights under this Agreement may terminate automatically if you materially violate its terms.
+
+Upon termination, you must stop using the Software and remove copies that you are not otherwise legally entitled to retain.
+
+Sections concerning ownership, intellectual property, restrictions, disclaimers, limitations of liability, and other provisions that by their nature should survive termination will continue to apply.
+
+16. TRADEMARKS
+
+"Smekal Solutions", product names, logos, and related marks are trademarks or trade names of Smekal Solutions or their respective owners.
+
+No right to use Smekal Solutions trademarks is granted except as necessary to accurately identify the Software.
+
+17. GOVERNING LAW
+
+This Agreement shall be governed by the laws of India, subject to applicable mandatory legal provisions.
+
+To the extent legally permitted, disputes shall be subject to the jurisdiction of the competent courts in Karnataka, India.
+
+18. CHANGES TO THIS AGREEMENT
+
+Smekal Solutions may update this Agreement for future versions of the Software.
+
+The version of the Agreement supplied with a particular Software release will apply to that release unless otherwise required by applicable law.
+
+19. ENTIRE AGREEMENT
+
+This Agreement constitutes the agreement between you and Smekal Solutions concerning the Software and supersedes prior agreements relating specifically to the same subject matter, except where separate written terms expressly apply.
+
+20. CONTACT
+
+Smekal Solutions
+No. 951, First Floor, 24th Main,
+2nd Phase, JP Nagar,
+Bengaluru - 560078,
+Karnataka, India
+
+Email: contact@smekalsolutions.com
+Website: https://www.smekalsolutions.com
+
+END OF AGREEMENT
